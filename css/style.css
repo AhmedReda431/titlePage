@@ -1,0 +1,99 @@
+html{
+    background: url("photos/Monasterio_Khor_Virap,_Armenia,_2016-10-01,_DD_25.jpg") no-repeat fixed center center;
+    
+    
+}
+body{
+    background-color: #5f5f5fad
+}
+.container {
+        max-width: 800px;
+}
+hr{
+    margin-bottom: 6%;
+    border: 0;
+    border-top: 1px solid #fff;
+    width: 66%;
+    margin-top: 6%;
+}
+h3{letter-spacing: 6px;}
+.father .first h1{
+    color: #fff;
+    font-size: 100px;
+}
+.footer .footer-holder .social .row .col a:hover{
+    transform: rotateX(360deg)
+}
+.footer .footer-holder .social .row .col a{
+    color: #fff;
+    
+}
+li:hover{
+        transform: rotateY(360deg);
+    transition: all 2s ease-in-out
+}
+.father{
+    height: 100%;
+    background-color: #333;
+    color: #dedede;
+    margin:4% 21%;
+    border-radius: 20px;
+    padding: 5% 0 2%
+}
+.father-holder{
+        height: 100%;
+    padding: 3px 0;
+}
+.father .first .span1{            
+    background-color: #fff;
+    padding: 55px;
+    border-radius: 50%;
+    color: #333;
+    margin: 0% 39%;
+}
+.father .first .span2{            
+    width: 100px;
+    height: 2px;
+    position: absolute;
+    background-color: #Fff;
+    margin-left: -3%;
+}
+/*****************************************************************************************/
+.second .second-holder h2,.third .third-holder h2,.fourth .fourth-holder h2{
+    letter-spacing: 5px
+}
+.second .second-holder button,.third .third-holder button,.fourth .fourth-holder button{
+    border: 1px solid #fff;
+    padding: 15px 35px;
+    border-radius: 29px;
+    color: #fff;    margin-bottom: 21px;
+}
+.second .second-holder button:hover,.third .third-holder button:hover,.fourth .fourth-holder button:hover{
+    border-color: #2AA9E0;
+    transform: rotateY(360deg);
+    transition: all 1s ease-in-out
+}
+/*****************************************************************************************/
+.footer .footer-holder i{
+    border: 1px solid #fff;
+    border-radius: 50%;
+    padding:21px 23px;
+}
+.footer .row{
+    width: 100%;
+        padding: 0 16% 0 19%;
+    margin-bottom: 20px;
+}
+.scrollButton{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    display: none;
+    background-color: #eee;
+}
+
+
+.row .col img{
+    margin: 0 -6px;
+    width: 100%;    border-radius: 10px;
+}

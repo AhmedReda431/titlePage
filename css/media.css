@@ -1,0 +1,22 @@
+@media (max-width:768px){
+    .father .first .span2{
+                margin: 0 -10%;
+    }
+    .father .first .span1{
+            margin: 0% 20%
+    }
+    .third .third-holder h3{
+            margin-top: 20px;
+    }
+    .second .second-holder .row .col:nth-of-type(2), .third .third-holder .row .col:first-of-type ,.fourth .fourth-holder .row .col:nth-of-type(2){
+        width: 100%;
+        display: block;
+        margin: 0 20%;
+    }
+}
+
+@media (min-width:768px) and (max-width:992px) {
+    .father .first .span2{
+                margin: 0 -6%;
+    }
+}
